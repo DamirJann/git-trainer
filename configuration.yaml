@@ -1,0 +1,28 @@
+server:
+  auth_token_key: xY84aHrG
+  beta: false
+  client_version: 1.58.0
+  ip4: 105.165.61.211
+  ip6: ''
+  name: mso-alpha
+  port: 9999
+  user_version: 35
+
+api:
+  host: ":7001"
+  billing_url: "alpha2.mso.ru"
+
+chat:
+  chatter:
+    group_size: 100
+    message_len: 255
+
+clan:
+  mq:
+    dsn: nats://level:dosjfn745@127.0.0.1:4222
+
+collector:
+  host: stats.games.com:8336
+  prefix: alpha
+
+
