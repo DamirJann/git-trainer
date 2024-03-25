@@ -18,10 +18,6 @@ chat:
     group_size: 100
     message_len: 255
 
-clan:
-  mq:
-    dsn: nats://level:dosjfn745@127.0.0.1:4222
-
 collector:
   host: stats.games.com:8336
   prefix: alpha
