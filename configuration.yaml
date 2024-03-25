@@ -12,11 +12,6 @@ api:
   host: ":7001"
   billing_url: "alpha2.mso.ru"
 
-chat:
-  chatter:
-    group_size: 100
-    message_len: 255
-
 clan:
   mq:
     dsn: nats://level:dosjfn745@127.0.0.1:4222
