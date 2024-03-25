@@ -14,6 +14,7 @@ api:
 
 chat:
   chatter:
+    timeout: 5s
     group_size: 100
     message_len: 255
 
