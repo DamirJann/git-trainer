@@ -26,4 +26,9 @@ collector:
   host: stats.games.com:8336
   prefix: alpha
 
+components:
+  - leader
+  - friends
+  - mail
+  - quests
 
